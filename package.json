@@ -1,0 +1,18 @@
+{
+  "name": "axino-test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axino": "^1.0.25"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
